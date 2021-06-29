@@ -1,0 +1,4 @@
+
+prameela
+ubuntu
+4.4.0-186-generic
